@@ -17,3 +17,6 @@ HOW TO INSTALL
    QGIS2DJIPilot2 Flight Planning -> Follow Terrain Flight Line.
 5. Double-click it to open the normal QGIS algorithm dialog with
    dropdowns for layer/raster and fields for height, etc.
+
+   <img width="732" height="582" alt="image" src="https://github.com/user-attachments/assets/783535ad-bcf1-4fde-8697-391a914eb1bb" />
+
