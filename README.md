@@ -4,6 +4,8 @@ QGIS Toolbox that convert manually drawn flight plan so that it can follow DTM t
     - DTM raster
     - User inputted Flying height (AGL)
 
+(Find more readable version in v3)
+
 HOW TO INSTALL
 --------------
 1. Open QGIS.
